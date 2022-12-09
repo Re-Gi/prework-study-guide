@@ -6,7 +6,7 @@
 header,
 footer {
     width: 100%;
-    height: 120px;
+    height: 150px;
     background-color: blue;
     color: white;
 }
@@ -37,6 +37,6 @@ p {
   .card {
     width: 80%;
     margin: 40px auto;
-    border: 2px solid #a0fce5;
-    box-shadow: 5px 10px #a0fce5;
+    border: 5px solid blue;
+    box-shadow: 5px 10px rgb(0, 0, 117);
   }
